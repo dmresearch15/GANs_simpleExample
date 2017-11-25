@@ -1,6 +1,6 @@
 # GANs_simpleExample
 
-Simple one-dimensional example using GANs.
+Simple one-dimensional example using GANs
 
 Ankur A. Patel
 
